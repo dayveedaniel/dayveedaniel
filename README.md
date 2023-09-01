@@ -1,4 +1,4 @@
-### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=dayveeddaniel&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
 <!--
 **dayveedaniel/dayveedaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
