@@ -32,7 +32,7 @@
 
 ### Stats :
 
-
+[![GitHub Streak](https://github-stats-extended.vercel.app/api?username=dayveedaniel)](https://github.com/stats-organization/github-stats-extended)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=dayveedaniel&hide=html&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
